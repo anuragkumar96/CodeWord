@@ -28,10 +28,15 @@ Collabrators include:
 - Shivani Reddy Dodla, <S531496@nwmissouri.edu>
 - Sreelekha Vijaya, <S531382@nwmissouri.edu>
 - cherukuru Chaithanya, <S531495@nwmissouri.edu>
+- Ujjawal Kumar: S530473@nwmissouri.edu, Fall 2017, 4th Semester
+- Anurag Kumar: S531372@nwmissouri.edu , Spring 2018 , 3rd Semester
+- Srimai Reddy Yanala: S531384@nwmissouri.edu , Spring 2018 , 3rd Semester
+- Vyshnavi Yalamareddy: S531383@nwmissouri.edu , Spring 2018 , 3rd semester
+- Sravya Kancharla: S531500@nwmissouri.edu, Spring 2018, 3rd Semester
 
 ## Project Purpose
 
-Creating Progressive Web Application for confidential codewords to each student in a course.
+Creating Progressive Web Application for confidential codewords to each student in a course.Course instructors must not know what code word is given to each student. 
 
 ## Benefits
 
